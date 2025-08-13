@@ -1,0 +1,7 @@
+geopandas>=0.14
+shapely>=2.0
+pyproj>=3.6
+fiona>=1.9
+folium>=0.17
+branca>=0.7
+rtree>=1.3
